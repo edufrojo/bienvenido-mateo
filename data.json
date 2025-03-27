@@ -1,0 +1,156 @@
+const data = {
+  "tituloPagina": "¡Bienvenido Mateo!",
+  "tituloLista": "Lista de Nacimiento",
+  "correoTienda": "janebebes@gmail.com",
+  "telefonoTienda": "+34 933522934",
+  "articulos": [
+    {
+      "Nombre": "Silla coche MICA PRO 360 Graphite",
+      "Precio": "339€",
+      "Imagen": "https://images.maxi-cosi.es/dorel-public-storage-prod/catalog/product/cache/655f0b719d7fda71d9d06b11a51a9714/8/5/8549550110_2023_maxicosi_carseat_babytoddlercarseat_mica360pro_forwardfacing_grey_authenticgraphite_noinlay_front.png",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Hamaca Balu 6141 U·78",
+      "Precio": "98€",
+      "Imagen": "https://janeworld.com/18684-large_default/hamaquita-baluu.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Cuna 2 niveles 6838 U·85",
+      "Precio": "98€",
+      "Imagen": "https://janeworld.com/23020-large_default/cuna-de-viaje-duo-level-toys.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Plástico lluvia 50272",
+      "Precio": "26.95€",
+      "Imagen": "https://janeworld.com/23079-large_default/protector-de-lluvia-para-carrito.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Fular de porteo Cocoon 60251 T48",
+      "Precio": "24.95€",
+      "Imagen": "https://janeworld.com/23143-large_default/fular-de-porteo-cocoon.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Espejo de vigilancia panorámico 30633 C01",
+      "Precio": "15.95€",
+      "Imagen": "https://janeworld.com/21618-large_default/espejo-de-vigilancia-panoramico.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Neceser completo de higiene 40218 U10",
+      "Precio": "24.95€",
+      "Imagen": "https://janeworld.com/19225-large_default/neceser-completo-de-higiene.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Esponja natural 40106 C01",
+      "Precio": "7.95€",
+      "Imagen": "https://janeworld.com/22329-large_default/esponja-natural.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Philips Avent - Extractor de leche eléctrico",
+      "Precio": "167.90€",
+      "Imagen": "https://images.philips.com/is/image/philipsconsumer/1adbd26790cd474b8832ac580093b732?wid=700&hei=700&$pnglarge$",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Philips Avent Natural Response 125ml",
+      "Precio": "13.50€",
+      "Imagen": "https://images.philips.com/is/image/philipsconsumer/27b140d5db9243cfb747ad83013e060b?wid=700&hei=700&$pnglarge$",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Philips Avent Chupete",
+      "Precio": "9.95€",
+      "Imagen": "https://images.philips.com/is/image/philipsconsumer/54fbf27f812a406b8a96aca800bbe0f3?$pnglarge$&wid=700&hei=700",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Portachupete \"Woody\" SARO 14387",
+      "Precio": "11.90€",
+      "Imagen": "https://www.sarobaby.com/cdn/shop/files/14387_a6f9a231-c78e-4918-af35-616015862741.jpg?v=1738864699&width=540",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "MOCHILA CORAZONES POPPY MUSGO 1120800324",
+      "Precio": "58.50€",
+      "Imagen": "https://walkingmum.com/wp-content/uploads/2024/02/1120800324_a.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "CAMBIADOR BÉBÉ-JOU",
+      "Precio": "37.95€",
+      "Imagen": "https://bebe-jou.nl/uploads/product_images/6800022-oceanvibes.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "4 in 1 Kickin'Tunes™ Gimnasio BABY Einstein",
+      "Precio": "83.90€",
+      "Imagen": "https://www.sarobaby.com/cdn/shop/files/11749_833e4fc0-6a9e-4c0c-8e7c-8e74f5cc082f.jpg?v=1731597034&width=540",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Pack 3 muselinas Lassig AS 122021-5574",
+      "Precio": "29.95€",
+      "Imagen": "https://olmitos.com/25253-superlarge_default/pack-3-muselinas-water-laessig.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Funda cubre bañera 36100044 Rosa claro",
+      "Precio": "15.95€",
+      "Imagen": "https://infantdeco.b-cdn.net/wp-content/uploads/2022/09/funda-cambiador-nude-36100044.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Juego sábanas algodón 50x80 528/16 Trex",
+      "Precio": "39.80€",
+      "Imagen": "https://infantdeco.b-cdn.net/wp-content/uploads/2024/05/68152816-550x550.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Juego sábanas algodón 50x80 515/12 Wonderland",
+      "Precio": "39.80€",
+      "Imagen": "https://www.latiendademama.es/204700-large_default/bimbi-casual-sabana-maxicuna-wonderland.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Protector 50x80 42100001",
+      "Precio": "11.90€",
+      "Imagen": "https://www.bambooropainfantil.com/wp-content/uploads/2021/10/funda-impermeable.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Sabana bajera Bimbidreams 50x80 522VM Bunny",
+      "Precio": "13€",
+      "Imagen": "https://www.bebepolis.es/124817-large_default/bimbidreams-sabana-bajera-punto-bunny.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Saco Silla de Paseo 452/S10/00",
+      "Precio": "64.90€",
+      "Imagen": "https://infantdeco.es/wp-content/uploads/2022/11/image-550x550.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Toquilla bambú super suave 75x90 254/BAN/01 Crudo",
+      "Precio": "31.90€",
+      "Imagen": "https://dam.elcorteingles.es/producto/www-8499000741457-00.jpg?impolicy=Resize&width=1200&height=1200",
+      "Reserva": "0"
+    }
+  ],
+  "metodosPago": {
+    "bizum": "660 715 352",
+    "cuentaBancaria": "ES64 2100 3177 80 2200108413"
+  },
+  "secciones": [
+    { "id": "portada", "nombre": "Inicio" },
+    { "id": "lista", "nombre": "Lista de Nacimiento" },
+    { "id": "pago", "nombre": "Métodos de Pago" },
+    { "id": "contacto", "nombre": "Contacto" }
+  ]
+}

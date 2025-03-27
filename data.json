@@ -1,6 +1,6 @@
 const data = {
   "tituloPagina": "¡Bienvenido Mateo!",
-  "tituloLista": "Lista de Nacimiento",
+  "tituloLista": "Lista de Nacimiento de Matteo Catalani y Maria Perez",
   "correoTienda": "janebebes@gmail.com",
   "telefonoTienda": "+34 933522934",
   "articulos": [
@@ -149,7 +149,7 @@ const data = {
   },
   "secciones": [
     { "id": "portada", "nombre": "Inicio" },
-    { "id": "lista", "nombre": "Lista de Nacimiento" },
+    { "id": "lista", "nombre": "Lista de Nacimiento de Mateo" },
     { "id": "pago", "nombre": "Métodos de Pago" },
     { "id": "contacto", "nombre": "Contacto" }
   ]

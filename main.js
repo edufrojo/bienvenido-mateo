@@ -51,7 +51,9 @@ metodosPagoContenedor.innerHTML = `
   <div class="pago__metodo">
     <i class="fa fa-university fa-3x" aria-hidden="true"></i>
     <h3>Cuenta Bancaria</h3>
-    <p><strong>${metodosPago.cuentaBancaria}</strong></p>
+    <p><strong>${metodosPago.nombreTitular}</strong></p>
+    <p><strong>BIC: ${metodosPago.cuentaBic}</strong></p>
+    <p><strong>IBAN: ${metodosPago.cuentaIban}</strong></p>
   </div>
 `;
 

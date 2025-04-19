@@ -141,6 +141,12 @@ const data = {
       "Precio": "31.90€",
       "Imagen": "https://dam.elcorteingles.es/producto/www-8499000741457-00.jpg?impolicy=Resize&width=1200&height=1200",
       "Reserva": "0"
+    },
+    {
+      "Nombre": "Bajera 40 x 80 Capazo",
+      "Precio": "10.90€",
+      "Imagen": "https://i.postimg.cc/bv4WjXMX/Whats-App-Image-2025-04-19-at-14-24-53.jpg",
+      "Reserva": "0"
     }
   ],
   "metodosPago": {

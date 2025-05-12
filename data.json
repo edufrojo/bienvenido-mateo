@@ -32,7 +32,7 @@ const data = {
       "Nombre": "Fular de porteo Cocoon 60251 T48",
       "Precio": "24.95€",
       "Imagen": "https://janeworld.com/23143-large_default/fular-de-porteo-cocoon.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Espejo de vigilancia panorámico 30633 C01",
@@ -44,13 +44,13 @@ const data = {
       "Nombre": "Neceser completo de higiene 40218 U10",
       "Precio": "24.95€",
       "Imagen": "https://janeworld.com/19225-large_default/neceser-completo-de-higiene.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Esponja natural 40106 C01",
       "Precio": "7.95€",
       "Imagen": "https://janeworld.com/22329-large_default/esponja-natural.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Philips Avent - Extractor de leche eléctrico",
@@ -80,13 +80,13 @@ const data = {
       "Nombre": "MOCHILA CORAZONES POPPY MUSGO 1120800324",
       "Precio": "58.50€",
       "Imagen": "https://walkingmum.com/wp-content/uploads/2024/02/1120800324_a.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "CAMBIADOR BÉBÉ-JOU",
       "Precio": "37.95€",
       "Imagen": "https://bebe-jou.nl/uploads/product_images/6800022-oceanvibes.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "4 in 1 Kickin'Tunes™ Gimnasio BABY Einstein",
@@ -98,37 +98,37 @@ const data = {
       "Nombre": "Pack 3 muselinas Lassig AS 122021-5574",
       "Precio": "29.95€",
       "Imagen": "https://olmitos.com/25253-superlarge_default/pack-3-muselinas-water-laessig.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Funda cubre bañera 36100044 Rosa claro",
       "Precio": "15.95€",
       "Imagen": "https://infantdeco.b-cdn.net/wp-content/uploads/2022/09/funda-cambiador-nude-36100044.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Juego sábanas algodón 50x80 528/16 Trex",
       "Precio": "39.80€",
       "Imagen": "https://infantdeco.b-cdn.net/wp-content/uploads/2024/05/68152816-550x550.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Juego sábanas algodón 50x80 515/12 Wonderland",
       "Precio": "39.80€",
       "Imagen": "https://www.latiendademama.es/204700-large_default/bimbi-casual-sabana-maxicuna-wonderland.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Protector 50x80 42100001",
       "Precio": "11.90€",
       "Imagen": "https://www.bambooropainfantil.com/wp-content/uploads/2021/10/funda-impermeable.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Sabana bajera Bimbidreams 50x80 522VM Bunny",
       "Precio": "13€",
       "Imagen": "https://www.bebepolis.es/124817-large_default/bimbidreams-sabana-bajera-punto-bunny.jpg",
-      "Reserva": "0"
+      "Reserva": "1"
     },
     {
       "Nombre": "Saco Silla de Paseo 452/S10/00",
@@ -140,12 +140,36 @@ const data = {
       "Nombre": "Toquilla bambú super suave 75x90 254/BAN/01 Crudo",
       "Precio": "31.90€",
       "Imagen": "https://dam.elcorteingles.es/producto/www-8499000741457-00.jpg?impolicy=Resize&width=1200&height=1200",
+      "Reserva": "1"
+    },
+    {
+      "Nombre": "Bajera D'Peques Ramitas",
+      "Precio": "10.90€",
+      "Imagen": "https://i.postimg.cc/bv4WjXMX/Whats-App-Image-2025-04-19-at-14-24-53.jpg",
       "Reserva": "0"
     },
     {
-      "Nombre": "Bajera 40 x 80 Capazo",
-      "Precio": "10.90€",
-      "Imagen": "https://i.postimg.cc/bv4WjXMX/Whats-App-Image-2025-04-19-at-14-24-53.jpg",
+      "Nombre": "SONAJERO BOLA  DE CONEJITO MELOCOTON KALOO LAPINOO (K218025)",
+      "Precio": "8.99€",
+      "Imagen": "https://www.kaloo.com/5181-large_default/sonajero-bola-de-conejito-melocoton.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "CONEJO AMARILLO EDREDÓN (K214011)",
+      "Precio": "24.99€€",
+      "Imagen": "https://www.kaloo.com/5536-large_default/conejo-amarillo-edredon.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "PULSERA SONAJERO STELLA LA CERVATILLA (83387)",
+      "Precio": "9.99€",
+      "Imagen": "https://www.lilliputiens.com/2389-large_default/pulsera-sonajero-stella.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "LIBRO DE JUEGOS STELLA",
+      "Precio": "13.00€",
+      "Imagen": "https://www.lilliputiens.com/2866-large_default/libro-de-juegos.jpg",
       "Reserva": "0"
     }
   ],
